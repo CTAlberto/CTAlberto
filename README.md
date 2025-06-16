@@ -5,7 +5,7 @@
 
 ### 🚀 Sobre mí
 
-🎓 **Desarrolloador de Aplicaciones Web**
+🎓 **Desarrolloador de Aplicaciones Web** </br>
 🛠️ Actualmente trabajando en proyectos personales, y en búsqueda activa de empleo.</br>
 🧩 Apasionado por el backend, la arquitectura limpia y el código mantenible  
 🌱 En constante aprendizaje: arquitectura de microservicios, testing, buenas prácticas y DevOps  
