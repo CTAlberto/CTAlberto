@@ -31,10 +31,18 @@
 Aplicación web para gestionar inventarios por casa y ubicación  
 🔐 Login con roles · CRUD jerárquico · Diseño responsive · Angular + Spring Boot  
 
-#### 🧾 System Ticket Service (Trabajo en prácticas)
-Servicio micro de integración con Kafka que gestiona incidencias y oportunidades CRM  
-✅ Recepción de eventos · Persistencia con JPA · Tests unitarios con Mockito  
-📄 Repositorio privado (uso interno corporativo)
+#### 🧾 CRM (Trabajo en prácticas)
+Desarrollé un sistema completo para la gestión de tickets y sugerencias, utilizado internamente en el entorno corporativo:
+
+📄 Diseñé desde la documentación funcional hasta el despliegue final.
+
+⚙️ Implementé la lógica de negocio basada en eventos Kafka, con procesamiento paralelo mediante hilos y almacenamiento de archivos en Amazon S3.
+
+🔧 Refactoricé módulos backend críticos para mejorar el rendimiento, la estabilidad y la legibilidad del código.
+
+✅ Escribí tests unitarios con Mockito y apliqué principios de diseño limpio como SOLID y KISS.
+
+🐳 Colaboré en la integración y despliegue de microservicios usando Docker y repositorios en AWS CodeCommit.
 
 ---
 
