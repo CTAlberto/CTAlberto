@@ -27,9 +27,18 @@
 
 ### 📌 Proyectos Destacados
 
-#### 🏠 Inventario Doméstico (TFG)
-Aplicación web para gestionar inventarios por casa y ubicación  
-🔐 Login con roles · CRUD jerárquico · Diseño responsive · Angular + Spring Boot  
+#### 🏠 App de Gestión de Inventario Familiar
+Aplicación web desarrollada desde cero para la gestión de inventario doméstico y pequeñas empresas:
+
+🔐 Autenticación y autorización con roles personalizados usando JWT.
+
+🗃️ Modelado de base de datos relacional en PostgreSQL con relaciones complejas.
+
+🧩 Frontend en Angular + Angular Material, con formularios reactivos, modales y vistas jerárquicas.
+
+⚙️ Backend con Spring Boot, JPA y arquitectura RESTful, aplicando principios SOLID y buenas prácticas.
+
+🐳 Despliegue con Docker y gestión del repositorio en AWS CodeCommit.
 
 #### 🧾 CRM (Trabajo en prácticas)
 Desarrollé un sistema completo para la gestión de tickets y sugerencias, utilizado internamente en el entorno corporativo:
