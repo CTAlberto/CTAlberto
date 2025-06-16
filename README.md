@@ -7,7 +7,7 @@
 
 🎓 **Desarrolloador de Aplicaciones Web**
 🛠️ Actualmente trabajando en proyectos personales, y en búsqueda activa de empleo. 
-🧠 Apasionado por el backend, la arquitectura limpia y el código mantenible  
+🧩 Apasionado por el backend, la arquitectura limpia y el código mantenible  
 🌱 En constante aprendizaje: arquitectura de microservicios, testing, buenas prácticas y DevOps  
 🎯 Objetivo: Convertirme en un FullStack Developer profesional con un stack sólido y experiencia real  
 
@@ -15,13 +15,13 @@
 
 ### 🧰 Tech Stack
 
-- **Lenguajes:** Java · TypeScript · SQL · HTML · SCSS  
-- **Backend:** Spring Boot · Spring Security · Hibernate/JPA · JWT  
-- **Frontend:** Angular (Material UI) · Reactive Forms · RxJS  
-- **Base de Datos:** PostgreSQL · MySQL  
-- **Herramientas:** Git · GitHub · Postman · Docker (en proceso)  
-- **Testing:** JUnit · Mockito · Jasmine/Karma  
-- **Otras:** Kafka · Maven · Swagger · VSCode · IntelliJ IDEA  
+- **Lenguajes:** Java · TypeScript · SQL · HTML · CSS · PHP
+- **Backend:** Spring Boot · Spring Security · Hibernate/JPA · JWT · Laravel
+- **Frontend:** Angular · Reactive Forms · RxJS · Blade · Bootstrap
+- **Base de Datos:** PostgreSQL · MySQL · MariaDB
+- **Herramientas:** Git · GitHub · Postman · Docker
+- **Testing:** JUnit · Mockito
+- **Otras:** Kafka · Maven · VSCode · IntelliJ IDEA · Eclipse
 
 ---
 
